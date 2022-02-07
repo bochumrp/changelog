@@ -1,7 +1,26 @@
---- Dev Changelog
+Dev Changelog
 
-- [03.012.2022](#03.012.2022)
+- [07.02.2022](#07.02.2022)
+- [03.01.2022](#03.02.2022)
 
+# 07.02.2022
+
+# ► Neue CarHud
+    - Auf viel fachen wunsch habe ich die neue (alt bekannte) carhud hinzugefuegt
+    - Bei Unfaellen fliegt man nun nicht mehr ganz so schnell aus die Karre
+
+ # ► Fahrzeug Shops
+    - Rechtschreibung / Uebersetzung
+    - € vs $ getauscht
+
+# ► Autos
+    - Autos der Kategorie Normal in den richtigen Shop geschoben und Preise angepasst
+
+ # ► PlasmarKart
+    - Umlaute
+    - Bugfix im start script
+
+# 03.01.2022
 # ►  Neue Garagen System
     - Polizei hat nun einen eignen Abschlepphof um Fahrzeuge zu konfiszieren
     - Garagen System kann nun RGB Farben Speichern
