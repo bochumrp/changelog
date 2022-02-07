@@ -6,7 +6,7 @@ Dev Changelog
 # 07.02.2022
 
 # ► Neue CarHud
-    - Auf viel fachen wunsch habe ich die neue (alt bekannte) carhud hinzugefuegt
+    - Auf vielfachen wunsch habe ich die neue (alt bekannte) carhud hinzugefuegt
     - Bei Unfaellen fliegt man nun nicht mehr ganz so schnell aus die Karre
 
  # ► Fahrzeug Shops
