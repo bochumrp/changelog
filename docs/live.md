@@ -1,9 +1,18 @@
 Live Changelog
 
-[Changelogs 02.01.2022 - 25.01.2022 BETA Ver. 1.1 ](#beta1.1)
+[26.01.2022 BETA Ver. 1.2 ](#Beta1.2)
+[02.01.2022 - 25.01.2022 BETA Ver. 1.1 ](#Beta1.1)
 
+# Beta 1.2
+# ► Gameplay
+- Admin Tools wurden geupdated
+- Kart / Lasertac MLO Performance Update
+- Neues Mafia MLO hinzugefügt
 
-# beta1.1
+# ► Fehlerbehebungen
+- Bugfix Leben / Schutzwesten Safer - unter bestimmten Umständen konnte man nicht revived werden.
+
+# Beta1.1
 # ► Gameplay
 - MLO Update "Hatershop" hinzugefuegt
 - Polizeirevier nun komplett abschließbar
