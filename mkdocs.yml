@@ -9,8 +9,9 @@ markdown_extensions:
   - pymdownx.superfences
   - pymdownx.snippets
 
-copyright: Copyright &copy; 2021 - 2022 jaksam1074#6183
+copyright: Copyright &copy; 2021 - 2022 BochumRP
 
 extra:
   social:
     - icon: fontawesome/brands/discord
+      link: https://discord.io/BochumRP
