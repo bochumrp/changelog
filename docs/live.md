@@ -3,7 +3,7 @@ Live Changelog
 [Changelogs 02.01.2022 - 25.01.2022 BETA Ver. 1.1 ](#beta1.1)
 
 
-#beta1.1
+# beta1.1
 # ► Gameplay
 - MLO Update "Hatershop" hinzugefuegt
 - Polizeirevier nun komplett abschließbar
