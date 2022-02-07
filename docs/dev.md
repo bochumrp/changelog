@@ -18,7 +18,7 @@ Dev Changelog
 
  # ► PlasmarKart
     - Umlaute
-    - Bugfix im start script
+    - Bugfix im Startscript
 
 # 03.01.2022
 # ►  Neue Garagen System
