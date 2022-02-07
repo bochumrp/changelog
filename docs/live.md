@@ -1,6 +1,6 @@
 Live Changelog
 
-[26.01.2022 BETA Ver. 1.2 ](#Beta1.2)
+[26.01.2022 BETA Ver. 1.2 ](#Beta1.2) </br>
 [02.01.2022 - 25.01.2022 BETA Ver. 1.1 ](#Beta1.1)
 
 # Beta 1.2
