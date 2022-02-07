@@ -35,7 +35,6 @@ Dev Changelog
     - Alle Custom cars sind nun im Shop
     - Anticheat Protection
 
-
 # ►  BaberShop
     - Bugfix wenn man eine Maske/helm an hat wird es nun automatisch ausgezogen
 
@@ -68,7 +67,7 @@ Dev Changelog
         - Jetzt wird das Aktionsmenü blockiert, wenn der Spieler mit Handschellen gefesselt ist 
         - Export hinzugefügt, um Suchaktionen zu ersetzen
   
-  # ► Drogen System Update
+# ► Drogen System Update
     - Speed farming ist nun nicht mehr möglich
     - Neue Exports um bsp eigne externe verhalten scripte hinzuzufuegen.
 
