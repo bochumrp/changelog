@@ -15,6 +15,7 @@ Dev Changelog
 
 # ► Autos
     - Autos der Kategorie Normal in den richtigen Shop geschoben und Preise angepasst
+    - Alle fertig gestellten Fahrzeuge von Jack auf den DEV server migriert 
 
 # ► PlasmarKart
     - Umlaute
