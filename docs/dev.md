@@ -1,7 +1,7 @@
 Dev Changelog
 
 - [07.02.2022](#07.02.2022)
-- [03.01.2022](#03.02.2022)
+- [03.02.2022](#03.02.2022)
 
 # 07.02.2022
 
@@ -20,7 +20,7 @@ Dev Changelog
     - Umlaute
     - Bugfix im Startscript
 
-# 03.01.2022
+# 03.02.2022
 # ►  Neue Garagen System
     - Polizei hat nun einen eignen Abschlepphof um Fahrzeuge zu konfiszieren
     - Garagen System kann nun RGB Farben Speichern
