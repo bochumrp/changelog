@@ -9,14 +9,14 @@ Dev Changelog
     - Auf vielfachen wunsch habe ich die neue (alt bekannte) carhud hinzugefuegt
     - Bei Unfaellen fliegt man nun nicht mehr ganz so schnell aus die Karre
 
- # ► Fahrzeug Shops
+# ► Fahrzeug Shops
     - Rechtschreibung / Uebersetzung
     - € vs $ getauscht
 
 # ► Autos
     - Autos der Kategorie Normal in den richtigen Shop geschoben und Preise angepasst
 
- # ► PlasmarKart
+# ► PlasmarKart
     - Umlaute
     - Bugfix im Startscript
 
