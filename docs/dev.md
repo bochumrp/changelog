@@ -1,7 +1,22 @@
 Dev Changelog
 
+- [08.02.2022](#08.02.2022)
 - [07.02.2022](#07.02.2022)
 - [03.02.2022](#03.02.2022)
+
+# 08.02.2022
+
+# ► Phone Update
+    - Eigentlich nichts neues nicht mal die known bugs wurden gefixt.. 
+
+# ► Autos
+    - Alle Autos haben nun Preise und sind in der richtige Kategorie
+    - Golf GTI MK7 Replaced
+    - Golf GTI 7.5 gegen Scirocco Replaced
+
+# ► Bikes
+    - neues Bike set was wir uns anschauen sollten https://www.gta5-mods.com/vehicles/zbike-add-on-55-bikes-compilation-pack
+
 
 # 07.02.2022
 
