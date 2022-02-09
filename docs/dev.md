@@ -4,6 +4,19 @@ Dev Changelog
 - [07.02.2022](#07.02.2022)
 - [03.02.2022](#03.02.2022)
 
+- [09.02.2022](#09.02.2022)
+
+# 09.02.2022
+
+# ► Loading Screen
+    - Update zu Beta2
+    - Audio switch to Jacks version
+
+# ► Plasmakart
+    - FPS Fixes
+    - Fahrstuhl Map geaendert.
+
+
 # 08.02.2022
 
 # ► Phone Update
