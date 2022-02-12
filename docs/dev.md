@@ -13,7 +13,7 @@ Dev Changelog
     - Tax fuer Geld waesche angepasst
 
 # ► Geldwaesche
-    - Bugix Geldwaesche
+    - Bugfix Geldwaesche
 
 # 09.02.2022
 
