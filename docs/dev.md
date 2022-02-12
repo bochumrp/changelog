@@ -1,12 +1,14 @@
 Dev Changelog
 
+- [12.02.2022](#12.02.2022)
 - [08.02.2022](#08.02.2022)
 - [07.02.2022](#07.02.2022)
 - [03.02.2022](#03.02.2022)
 
-- [09.02.2022](#09.02.2022)
-
-# 09.02.2022
+# 12.02.2022
+    - Bugix Geldwaesche
+    - Autos brauchen keine Waesche mehr
+    - Tax fuer Geld waesche angepasst
 
 # ► Loading Screen
     - Update zu Beta2
