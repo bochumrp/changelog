@@ -1,7 +1,30 @@
 Live Changelog
 
+- [16.02.2022 BETA Ver. 2 ](#Beta2) 
 - [26.01.2022 BETA Ver. 1.2 ](#Beta1.2) 
 - [02.01.2022 - 25.01.2022 BETA Ver. 1.1 ](#Beta1.1)
+
+# Beta2
+# ► Gameplay
+- Neues Tuning System
+- Marken Autos hinzugefuegt
+- Neue CarHud
+- Neue Fahrzeug Shops
+- Neue Garagen System
+-   
+# ► Fehlerbehebungen
+- FPS Fixes
+- Plasmakart - Fahrstuhl Map geaendert.
+- Phone Update
+- Bugfix wenn man eine Maske/helm an hat wird es nun automatisch ausgezogen
+- SQL inject bugfixes
+- Speed farming ist nun nicht mehr möglich (Drogen System)
+- Haeuser werden nur noch angezeigt die bei dir dran sind, verhaelt sich genauso wie das Tankstellen system.
+- TS probleme behoben man sollte nun sein nachbar nicht mehr hören
+
+# ► Sonstiges
+- Geldwaesche Tax angepasst
+- Geldwaesche waschezeit verlaengert
 
 # Beta 1.2
 # ► Gameplay
